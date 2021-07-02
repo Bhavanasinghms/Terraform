@@ -1,0 +1,5 @@
+storage_account_name= ""
+container_name = ""
+key = ""
+access_key = ""
+resource_group_name = ""
